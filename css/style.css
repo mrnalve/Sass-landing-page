@@ -584,6 +584,9 @@ nav .sign_in .start_free{
     margin: 90px 0;
     background-color: #3734A9;
     padding: 50px 0;
+    background-image: url(../iamge/Polygon\ 8.png), url(../iamge/Polygon\ 9.png), url(../iamge/Polygon\ 10.png);
+    background-position: top calc(-100px) right, bottom calc(-80px) left, top center;
+    background-repeat: no-repeat;
 }
 #paritality .partiality_cnt{
     padding-right: 100px;
