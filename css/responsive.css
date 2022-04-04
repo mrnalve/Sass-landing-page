@@ -1,0 +1,89 @@
+@media(min-width:992px) and (max-width:1199.98px){
+
+}
+@media(min-width:768px) and (max-width:991.98px){
+    
+}
+@media(min-width:576px) and (max-width:991.98px){
+  
+}
+@media(min-width:576px) and (max-width:767.98px){
+    
+
+}
+@media(min-width:451px) and (max-width:600.99px){
+  
+}
+@media(max-width:1400px){
+   
+}
+@media(max-width:1200px){
+  
+}
+@media(max-width:900px){
+   
+}
+@media(max-width:991px){
+   
+}
+@media(max-width:991.98px){
+   /* banner part */
+  #banner .banner_form{
+    margin-left: 0;
+    }
+    /* samsung part starts */
+    #samsung .samsung_img img {
+        margin: 10px 20px;
+    }
+    /* verified part starts */
+    #verified .verified_2nd_box {
+       padding-left: 0;
+    }
+    /* push part starts */
+    #push .push_heading {
+        width: 90%;
+    }
+}
+@media(max-width:767px){
+    
+}
+@media(max-width:567px){
+  
+}
+@media(max-width:575px){
+  /* banner part */
+    #banner .banner_cnt h1 {
+        font-size: 30px;
+    }
+    #banner .banner_cnt p {
+        font-size: 14px;
+    }
+    #banner .banner_cnt a {
+        margin: 15px 15px 10px 0;
+        padding: 11px;
+    }
+    #banner .banner_cnt span {
+        font-size: 14px;
+    }
+    #banner .banner_form h3 {
+        margin-top: 16px;
+    }
+    /* believe part starts */
+    #believe article h1 {
+        font-size: 28px;
+    }
+    #believe article p {
+        font-size: 16px;
+    }
+    #believe article span {
+        font-size: 16px;
+        padding: 10px 25px;
+    }
+}
+@media(max-width:450px){
+   
+}
+@media(max-width:340px){
+   
+}
+
